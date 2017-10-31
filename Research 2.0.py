@@ -72,12 +72,12 @@ if showtPositionMatrix == True:
 #***
 
 
-print '\n', '\n'
+print '\n', '\n' # Allows a user to select their desired starting point
 print "Possible starting points =", Starting_points
 start = input('Choose your starting point: ')
 print '\n', '\n'
 
-print "Possible ending points =", Ending_points 
+print "Possible ending points =", Ending_points #Allows a user to select their desired ending point
 end = input('Choose your ending point: ')  
 print '\n'
 
